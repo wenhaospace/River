@@ -1,6 +1,14 @@
 Project Name: River
 
-SpringBoot3.3.3
-Java17
+SpringBoot 3.3.3
+
+Java 17
+
 DBeaver
-MySQL5.7
+
+MySQL 5.7
+
+Angular 18
+
+Angular/materia 18.2
+
