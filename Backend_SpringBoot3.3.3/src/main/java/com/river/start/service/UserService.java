@@ -41,4 +41,8 @@ public class UserService {
     }
 
     // other methods...
+
+    public User findByIdentityCardNumber(String identityCardNumber) {
+        return userRepository.findByIdentityCardNumber(identityCardNumber);
+    }
 }
